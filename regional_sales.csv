@@ -1,0 +1,25 @@
+country,total_customers,total_invoices,total_revenue,avg_order_value
+USA,13,91,523.06,5.75
+Canada,8,56,303.96,5.43
+France,5,35,195.1,5.57
+Brazil,5,35,190.1,5.43
+Germany,4,28,156.48,5.59
+"United Kingdom",3,21,112.86,5.37
+"Czech Republic",2,14,90.24,6.45
+Portugal,2,14,77.24,5.52
+India,2,13,75.26,5.79
+Chile,1,7,46.62,6.66
+Ireland,1,7,45.62,6.52
+Hungary,1,7,45.62,6.52
+Austria,1,7,42.62,6.09
+Finland,1,7,41.62,5.95
+Netherlands,1,7,40.62,5.8
+Norway,1,7,39.62,5.66
+Sweden,1,7,38.62,5.52
+Spain,1,7,37.62,5.37
+Poland,1,7,37.62,5.37
+Italy,1,7,37.62,5.37
+Denmark,1,7,37.62,5.37
+Belgium,1,7,37.62,5.37
+Australia,1,7,37.62,5.37
+Argentina,1,7,37.62,5.37
